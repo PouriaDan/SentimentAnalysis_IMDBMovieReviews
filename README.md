@@ -33,7 +33,7 @@ This script will:
 - Train a Fully Connected Network (FCN) using pretrained Word2Vec embeddings.
 - Perform inference again using the FCN model.
 
-You will need additional info including logs and required files to reuse the trained models in `./results` directory.
+You will find additional info including logs and required files to reuse the trained models in `./results` directory.
 
 ## Table of Contents
 
