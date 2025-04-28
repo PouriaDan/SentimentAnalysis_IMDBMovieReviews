@@ -19,7 +19,7 @@ To quickly run a demo of this repository:
 
 Run the demo script:
 ```{python}
-python run_scripts.py [--text "I loved the movie" [--cpu]
+python demo.py [--text "I loved the movie" [--cpu]
 ```
 Arguments:
 - `--cpu` :To force CPU training if GPU is not available or desired
